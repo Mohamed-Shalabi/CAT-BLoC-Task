@@ -124,3 +124,4 @@ class TimerBloc extends Bloc<TimerEvent, TimerState> {
     );
   }
 }
+
